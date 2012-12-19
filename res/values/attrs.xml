@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="ShadowedButton">
+        <attr name="shadowColor" format="color" />
+        <attr name="shadowDx" format="float"/>
+        <attr name="shadowDy" format="float"/>
+        <attr name="shadowRadius" format="float"/>
+    </declare-styleable>
+</resources>
